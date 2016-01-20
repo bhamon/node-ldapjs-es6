@@ -1,0 +1,21 @@
+{
+	"name":"@bhamon/ldapjs-es6",
+	"version":"0.1.0",
+	"description":"ES6 version of ldapjs",
+	"author":{
+		"name":"Benjamin Hamon",
+		"url":"https://github.com/bhamon"
+	},
+	"license":"MIT",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/bhamon/node-ldapjs-es6.git"
+	},
+	"main":"lib/index.js",
+	"engines":{
+		"node":">=5.0.0"
+	},
+	"peerDependencies":{
+		"ldapjs":"^1.0.0"
+	}
+}

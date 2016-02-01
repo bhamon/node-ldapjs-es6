@@ -1,6 +1,6 @@
 {
 	"name":"@bhamon/ldapjs-es6",
-	"version":"0.1.0",
+	"version":"0.1.1",
 	"description":"ES6 version of ldapjs",
 	"author":{
 		"name":"Benjamin Hamon",
